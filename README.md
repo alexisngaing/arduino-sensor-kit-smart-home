@@ -36,6 +36,8 @@ University project for the course of `Internet of Things`.
 10. Turn the sensors on and off
 11. Enjoy!
 
+note: If you are confused about the wiring and assembling, you can check the PDF '37SENSORKIT'.
+
 ## Image
 
 ![alt text](https://github.com/alexisngaing/arduino-sensor-kit-smart-home/blob/main/img1.jpeg?raw=true)
